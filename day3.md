@@ -27,6 +27,7 @@ Using LangChain, implement the following functionalities for the assistant:
 4. **Usage Monitoring and Token Tracking**  
    - To manage API costs, monitor the total tokens used across all tasks in this assistant.
    - Use the callback function to track the tokens and display the total usage after all tasks are completed.
+   - Output in USD and IDR
 
 ### Example Output
 
@@ -53,5 +54,5 @@ Sentiment: Neutral
 
 For **Token Usage**:
 ```plaintext
-Total tokens used: 150
+Total tokens used: $150 or IDR 2336100
 ```
