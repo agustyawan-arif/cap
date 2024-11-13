@@ -1,5 +1,5 @@
 ### Quis:
-[Google form url for quis and case submission](!https://forms.gle/YJYBNXdsghiuu8uW7)
+Google form url for quis and case submission: https://forms.gle/YJYBNXdsghiuu8uW7
 
 ### Case Study: Customer Support Assistant
 
